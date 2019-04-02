@@ -1,2 +1,2 @@
 language: java
-install: true
+install: mvn clean verify -Dgpg.skip=true
