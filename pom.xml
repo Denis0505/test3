@@ -4,7 +4,6 @@
   <artifactId>Raydonme1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
    <dependencies>
-        <!-- Mandatory dependencies for using Spock -->
         <dependency>
             <groupId>org.spockframework</groupId>
             <artifactId>spock-core</artifactId>
